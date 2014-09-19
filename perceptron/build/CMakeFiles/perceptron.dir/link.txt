@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/perceptron.dir/src/perceptron.cpp.o CMakeFiles/perceptron.dir/src/perceptron_demo.cpp.o  -o perceptron  -L/home/cl/Code/ML/ML/perceptron/lib -rdynamic 

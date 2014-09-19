@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/perceptron.h
+vector
+-
+string
+-
+
+/home/cl/Code/ML/ML/perceptron/src/perceptron_demo.cpp
+string
+-
+iostream
+-
+vector
+-
+perceptron.h
+/home/cl/Code/ML/ML/perceptron/src/perceptron.h
+
